@@ -5,4 +5,4 @@ require('seneca')()
         {
           done( null, {message:'hello'} )
         })
-    .listen()
+    .listen(process.env.PORT || 10101)
