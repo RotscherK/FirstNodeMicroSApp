@@ -5,3 +5,5 @@
 https://firstnodemicrosapp.herokuapp.com/act?say=hello
 
 https://firstnodemicrosapp.herokuapp.com/act?say=goodbye
+
+https://smartbear.com/learn/api-design/how-to-create-a-microservices-setup/
