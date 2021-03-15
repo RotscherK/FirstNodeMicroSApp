@@ -10,6 +10,9 @@
         "type": "git",
         "url": ""
     },
+    "dependencies": {
+        "seneca": "^3.23.2"
+    },
     "author": "",
     "license": "ISC",
     "bugs": {
