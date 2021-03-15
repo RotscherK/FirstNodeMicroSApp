@@ -1,0 +1,14 @@
+
+{
+    "name": "Kaufmann_MicroS_Node",
+    "description": "Kaufmann_MicroS_Node",
+    "repository": "https://github.com/RotscherK/FirstNodeMicroSApp",
+    "addons": ["heroku-postgresql:hobby-dev"],
+    "keywords": ["RK"],
+    "env": {
+      "CORS_ENABLED": {
+        "description": "CORS enabled?",
+        "value": "false"
+      }
+    }
+  }
