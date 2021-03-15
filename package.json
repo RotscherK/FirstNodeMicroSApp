@@ -2,18 +2,18 @@
     "name": "coolnodeapp",
     "version": "1.0.0",
     "description": "node app ",
-    "main": "app.js",
+    "main": "service.js",
     "scripts": {
-    "start": "node service.js"
-  },
+        "start": "node service.js"
+    },
     "repository": {
-    "type": "git",
-    "url": ""
-  },
+        "type": "git",
+        "url": ""
+    },
     "author": "",
     "license": "ISC",
     "bugs": {
-    "url": ""
-  },
+        "url": ""
+    },
     "homepage": ""
   }
