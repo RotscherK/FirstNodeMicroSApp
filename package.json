@@ -11,8 +11,8 @@
         "url": ""
     },
     "dependencies": {
-        "seneca": "^3.23.2",
-        "amqplib": "*"
+        "amqplib": "*",
+        "seneca": "^3.23.2"
     },
     "author": "",
     "license": "ISC",
