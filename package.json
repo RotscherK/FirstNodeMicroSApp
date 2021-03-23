@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "node app ",
     "main": "service.js",
+    "engines": {
+        "node": "15.11.0"
+    },
     "scripts": {
         "start": "node service.js"
     },
