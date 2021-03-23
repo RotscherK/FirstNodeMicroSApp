@@ -1,7 +1,7 @@
 
 {
-    "name": "Kaufmann_MicroS_Node",
-    "description": "Kaufmann_MicroS_Node",
+    "name": "Kaufmann_MicroService_Node_Demo",
+    "description": "Kaufmann_MicroService_Node_Demo",
     "repository": "https://github.com/RotscherK/FirstNodeMicroSApp",
     "addons": ["heroku-postgresql:hobby-dev"],
     "keywords": ["RK"],
